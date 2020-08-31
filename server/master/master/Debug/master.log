@@ -1,0 +1,133 @@
+﻿  stdafx.cpp
+  encrypt.cpp
+D:\feiQ\trochilus\base\include\encrypt\encrypt.cpp(14,28): warning C4838: 从“int”转换到“BYTE”需要收缩转换
+D:\feiQ\trochilus\base\include\encrypt\encrypt.cpp(14,41): warning C4838: 从“int”转换到“BYTE”需要收缩转换
+  MyFile.cpp
+  json_reader.cpp
+  json_value.cpp
+  json_writer.cpp
+  md5.cpp
+  mongoose.cpp
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(48,1): warning C4117: 保留“_INTEGRAL_MAX_BITS”宏名，忽略“#define”
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(425,9): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(438,13): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(447,13): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(485,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(597,13): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(610,35): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(643,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(654,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(657,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(662,20): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(663,20): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(831,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(837,7): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(851,23): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(852,12): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(854,10): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(859,25): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(860,8): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(1570,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(1599,10): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(1605,10): warning C4996: '_wopen': This function or variable may be unsafe. Consider using _wsopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(1653,7): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(2106,12): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(2120,12): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(2301,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(2313,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(2314,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(2953,25): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(3091,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(3093,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(3095,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(3097,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(3183,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(3206,10): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(3210,55): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(3322,14): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(3467,48): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(3693,47): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(3698,54): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(3718,12): warning C4244: “初始化”: 从“int64_t”转换到“size_t”，可能丢失数据
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4057,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4163,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4167,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4171,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4172,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4187,26): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4205,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4208,56): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4284,55): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4393,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4394,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4395,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4399,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4573,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4740,56): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(4843,21): warning C4244: “return”: 从“time_t”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(5078,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(5249,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(5262,9): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\base\include\mongoose\mongoose.cpp(5264,10): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ods.cpp
+  librsa.cpp
+  MySocket.cpp
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(77,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(114,19): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(124,14): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(368,24): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(387,7): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(393,8): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  RepeatTask.cpp
+  ThreadArray.cpp
+  tstring.cpp
+  CommData.cpp
+  CommDataUtils.cpp
+  DnsResolver.cpp
+D:\feiQ\trochilus\common\DnsResolver.cpp(120,50): warning C4267: “初始化”: 从“size_t”转换到“unsigned char”，可能丢失数据
+D:\feiQ\trochilus\common\DnsResolver.cpp(419,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\feiQ\trochilus\common\DnsResolver.cpp(423,75): warning C4267: “参数”: 从“size_t”转换到“u_short”，可能丢失数据
+  FileParser.cpp
+D:\feiQ\trochilus\common\FileParser.cpp(78,36): warning C4244: “参数”: 从“INT64”转换到“LONG”，可能丢失数据
+  ClientInfoManager.cpp
+D:\feiQ\trochilus\common\GuidStructs.h(74,1): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
+D:\feiQ\trochilus\server\master\master\ClientInfoManager.cpp(231,21): warning C4244: “=”: 从“UINT64”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\server\master\master\ClientInfoManager.cpp(232,20): warning C4244: “=”: 从“UINT64”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\server\master\master\ClientInfoManager.cpp(233,21): warning C4244: “=”: 从“UINT64”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\server\master\master\ClientInfoManager.cpp(238,35): warning C4244: “参数”: 从“UINT64”转换到“DWORD”，可能丢失数据
+D:\feiQ\trochilus\server\master\master\ClientInfoManager.cpp(316,76): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+D:\feiQ\trochilus\server\master\master\ClientInfoManager.cpp(319,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  ClientmodManager.cpp
+  CmdShell.cpp
+D:\feiQ\trochilus\common\GuidStructs.h(74,1): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
+  正在生成代码...
+  正在编译...
+  CommManager.cpp
+D:\feiQ\trochilus\common\GuidStructs.h(74,1): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
+D:\feiQ\trochilus\server\master\master\CommManager.cpp(83,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\feiQ\trochilus\server\master\master\CommManager.cpp(510,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  common.cpp
+  FileTransfer.cpp
+D:\feiQ\trochilus\common\GuidStructs.h(74,1): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
+D:\feiQ\trochilus\server\master\master\FileTransfer.cpp(62,75): warning C4244: “参数”: 从“UINT64”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\server\master\master\FileTransfer.cpp(62,68): warning C4244: “参数”: 从“UINT64”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\server\master\master\FileTransfer.cpp(88,18): warning C4244: “初始化”: 从“UINT64”转换到“DWORD”，可能丢失数据
+D:\feiQ\trochilus\server\master\master\FileTransfer.cpp(124,59): warning C4244: “参数”: 从“UINT64”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\server\master\master\FileTransfer.cpp(127,69): warning C4244: “参数”: 从“UINT64”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\server\master\master\FileTransfer.cpp(134,24): warning C4244: “=”: 从“UINT64”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\server\master\master\FileTransfer.cpp(173,17): warning C4244: “初始化”: 从“UINT64”转换到“DWORD”，可能丢失数据
+D:\feiQ\trochilus\server\master\master\FileTransfer.cpp(199,17): warning C4244: “初始化”: 从“UINT64”转换到“DWORD”，可能丢失数据
+  HttpDown.cpp
+D:\feiQ\trochilus\common\GuidStructs.h(74,1): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
+  LocalFileOperation.cpp
+  master.cpp
+D:\feiQ\trochilus\common\GuidStructs.h(74,1): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
+  MessageRecorder.cpp
+  RemoteFileOperation.cpp
+  ShellManager.cpp
+D:\feiQ\trochilus\common\GuidStructs.h(74,1): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
+  Tcp.cpp
+  Udp.cpp
+  正在生成代码...
+    正在创建库 ..\..\libsD\master.lib 和对象 ..\..\libsD\master.exp
+  master.vcxproj -> D:\feiQ\trochilus\server\master\master\..\..\binD\master.dll

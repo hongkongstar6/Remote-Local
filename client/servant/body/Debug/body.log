@@ -1,0 +1,62 @@
+﻿  stdafx.cpp
+D:\feiQ\trochilus\client\servant\body\stdafx.cpp(9,31): warning C4838: 从“unsigned int”转换到“int”需要收缩转换
+D:\feiQ\trochilus\client\servant\body\stdafx.cpp(11,32): warning C4838: 从“unsigned int”转换到“int”需要收缩转换
+  SelfDestruction.cpp
+  encrypt.cpp
+D:\feiQ\trochilus\base\include\encrypt\encrypt.cpp(14,28): warning C4838: 从“int”转换到“BYTE”需要收缩转换
+D:\feiQ\trochilus\base\include\encrypt\encrypt.cpp(14,41): warning C4838: 从“int”转换到“BYTE”需要收缩转换
+  MyFile.cpp
+  md5.cpp
+  MemLoadDll.cpp
+  ods.cpp
+  librsa.cpp
+  MySocket.cpp
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(77,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(114,19): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(124,14): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(368,24): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(387,7): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(393,8): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  tstring.cpp
+  http.cpp
+D:\feiQ\trochilus\base\include\winhttp\http.cpp(645,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CommData.cpp
+  FileParser.cpp
+D:\feiQ\trochilus\common\FileParser.cpp(78,36): warning C4244: “参数”: 从“INT64”转换到“LONG”，可能丢失数据
+  CmdRedirector.cpp
+  CommManager.cpp
+D:\feiQ\trochilus\common\GuidStructs.h(74,1): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
+  common.cpp
+D:\feiQ\trochilus\client\servant\body\common.cpp(102,2): warning C4996: 'GetVersionExW': 被声明为已否决
+D:\feiQ\trochilus\client\servant\body\common.cpp(121,27): warning C4996: 'GetVersionExW': 被声明为已否决
+D:\feiQ\trochilus\client\servant\body\common.cpp(124,9): warning C4996: 'GetVersionExW': 被声明为已否决
+D:\feiQ\trochilus\client\servant\body\common.cpp(292,26): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\client\servant\body\common.cpp(425,19): warning C4996: 'GetVersion': 被声明为已否决
+  HttpComm.cpp
+D:\feiQ\trochilus\client\servant\body\HttpComm.cpp(58,12): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\client\servant\body\HttpComm.cpp(68,12): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Redirector.cpp
+D:\feiQ\trochilus\client\servant\body\Redirector.cpp(15,25): warning C4996: 'GetVersion': 被声明为已否决
+  scm.cpp
+  sctrl.cpp
+  svcctl_c.cpp
+  正在生成代码...
+D:\feiQ\trochilus\client\servant\body\HttpComm.h(13): warning C4715: “HttpComm::GetName”: 不是所有的控件路径都返回值
+  正在编译...
+  main.cpp
+D:\feiQ\trochilus\common\GuidStructs.h(74,1): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
+D:\feiQ\trochilus\client\servant\body\main.cpp(125,2): warning C4060: switch 语句没有包含“case”或“default”标签
+  Manager.cpp
+D:\feiQ\trochilus\common\GuidStructs.h(74,1): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
+D:\feiQ\trochilus\client\servant\body\Manager.cpp(341,16): warning C4244: “初始化”: 从“DWORDLONG”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\client\servant\body\Manager.cpp(367,20): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\client\servant\body\Manager.cpp(446,77): warning C4244: “参数”: 从“UINT64”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\client\servant\body\Manager.cpp(446,70): warning C4244: “参数”: 从“UINT64”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\client\servant\body\Manager.cpp(524,58): warning C4244: “参数”: 从“UINT64”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\client\servant\body\Manager.cpp(526,68): warning C4244: “参数”: 从“UINT64”转换到“int”，可能丢失数据
+  ServiceManager.cpp
+  TcpComm.cpp
+  UdpComm.cpp
+  正在生成代码...
+    正在创建库 ..\..\libsD\body.lib 和对象 ..\..\libsD\body.exp
+  body.vcxproj -> D:\feiQ\trochilus\client\servant\body\..\..\binD\body.dll

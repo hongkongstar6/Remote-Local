@@ -1,0 +1,161 @@
+﻿  stdafx.cpp
+D:\feiQ\trochilus\client\servant\body\stdafx.cpp(9,31): warning C4838: 从“unsigned int”转换到“int”需要收缩转换
+D:\feiQ\trochilus\client\servant\body\stdafx.cpp(11,32): warning C4838: 从“unsigned int”转换到“int”需要收缩转换
+  SelfDestruction.cpp
+  encrypt.cpp
+D:\feiQ\trochilus\base\include\encrypt\encrypt.cpp(14,28): warning C4838: 从“int”转换到“BYTE”需要收缩转换
+D:\feiQ\trochilus\base\include\encrypt\encrypt.cpp(14,41): warning C4838: 从“int”转换到“BYTE”需要收缩转换
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\ostream(706,1): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\feiQ\trochilus\base\include\encrypt\encrypt.cpp(26): message : 查看对正在编译的函数 模板 实例化“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::operator <<<wchar_t,std::char_traits<wchar_t>>(std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &,char)”的引用
+  MyFile.cpp
+  md5.cpp
+  MemLoadDll.cpp
+  ods.cpp
+  librsa.cpp
+  MySocket.cpp
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(77,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(114,19): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(124,14): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(368,24): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(387,7): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(393,8): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\ostream(285,1): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\ostream(270): message : 在编译 类 模板 成员函数“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(int)”时
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(379): message : 查看对正在编译的函数 模板 实例化“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(int)”的引用
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\sstream(448): message : 查看对正在编译的 类 模板 实例化“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”的引用
+D:\feiQ\trochilus\base\include\socket\MySocket.cpp(375): message : 查看对正在编译的 类 模板 实例化“std::basic_ostringstream<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>”的引用
+  tstring.cpp
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(748,1): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(708): message : 查看对正在编译的函数 模板 实例化“std::basic_string<char,std::char_traits<char>,std::allocator<char>> *std::vector<std::string,std::allocator<std::string>>::_Emplace_reallocate<const _Ty&>(std::basic_string<char,std::char_traits<char>,std::allocator<char>> *const ,const _Ty &)”的引用
+          with
+          [
+              _Ty=std::string
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(708): message : 查看对正在编译的函数 模板 实例化“std::basic_string<char,std::char_traits<char>,std::allocator<char>> *std::vector<std::string,std::allocator<std::string>>::_Emplace_reallocate<const _Ty&>(std::basic_string<char,std::char_traits<char>,std::allocator<char>> *const ,const _Ty &)”的引用
+          with
+          [
+              _Ty=std::string
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(717): message : 查看对正在编译的函数 模板 实例化“void std::vector<std::string,std::allocator<std::string>>::emplace_back<const _Ty&>(const _Ty &)”的引用
+          with
+          [
+              _Ty=std::string
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(716): message : 在编译 类 模板 成员函数“void std::vector<std::string,std::allocator<std::string>>::push_back(const _Ty &)”时
+          with
+          [
+              _Ty=std::string
+          ]
+D:\feiQ\trochilus\base\include\tstring.cpp(124): message : 查看对正在编译的函数 模板 实例化“void std::vector<std::string,std::allocator<std::string>>::push_back(const _Ty &)”的引用
+          with
+          [
+              _Ty=std::string
+          ]
+D:\feiQ\trochilus\base\include\tstring.cpp(124): message : 查看对正在编译的 类 模板 实例化“std::vector<std::string,std::allocator<std::string>>”的引用
+  http.cpp
+D:\feiQ\trochilus\base\include\winhttp\http.cpp(645,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(748,1): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(708): message : 查看对正在编译的函数 模板 实例化“std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> *std::vector<std::wstring,std::allocator<std::wstring>>::_Emplace_reallocate<const _Ty&>(std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> *const ,const _Ty &)”的引用
+          with
+          [
+              _Ty=std::wstring
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(708): message : 查看对正在编译的函数 模板 实例化“std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> *std::vector<std::wstring,std::allocator<std::wstring>>::_Emplace_reallocate<const _Ty&>(std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> *const ,const _Ty &)”的引用
+          with
+          [
+              _Ty=std::wstring
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(717): message : 查看对正在编译的函数 模板 实例化“void std::vector<std::wstring,std::allocator<std::wstring>>::emplace_back<const _Ty&>(const _Ty &)”的引用
+          with
+          [
+              _Ty=std::wstring
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(716): message : 在编译 类 模板 成员函数“void std::vector<std::wstring,std::allocator<std::wstring>>::push_back(const _Ty &)”时
+          with
+          [
+              _Ty=std::wstring
+          ]
+D:\feiQ\trochilus\base\include\winhttp\http.cpp(388): message : 查看对正在编译的函数 模板 实例化“void std::vector<std::wstring,std::allocator<std::wstring>>::push_back(const _Ty &)”的引用
+          with
+          [
+              _Ty=std::wstring
+          ]
+D:\feiQ\trochilus\base\include\winhttp\http.cpp(359): message : 查看对正在编译的 类 模板 实例化“std::vector<std::wstring,std::allocator<std::wstring>>”的引用
+  CommData.cpp
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\ostream(376,1): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\ostream(369): message : 在编译 类 模板 成员函数“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned __int64)”时
+D:\feiQ\trochilus\common\CommData.cpp(174): message : 查看对正在编译的函数 模板 实例化“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned __int64)”的引用
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\sstream(448): message : 查看对正在编译的 类 模板 实例化“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”的引用
+D:\feiQ\trochilus\common\CommData.cpp(172): message : 查看对正在编译的 类 模板 实例化“std::basic_ostringstream<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>”的引用
+  FileParser.cpp
+D:\feiQ\trochilus\common\FileParser.cpp(78,36): warning C4244: “参数”: 从“INT64”转换到“LONG”，可能丢失数据
+  CmdRedirector.cpp
+  CommManager.cpp
+D:\feiQ\trochilus\common\GuidStructs.h(74,1): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
+  common.cpp
+D:\feiQ\trochilus\client\servant\body\common.cpp(102,2): warning C4996: 'GetVersionExW': 被声明为已否决
+D:\feiQ\trochilus\client\servant\body\common.cpp(121,27): warning C4996: 'GetVersionExW': 被声明为已否决
+D:\feiQ\trochilus\client\servant\body\common.cpp(124,9): warning C4996: 'GetVersionExW': 被声明为已否决
+D:\feiQ\trochilus\client\servant\body\common.cpp(292,26): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\client\servant\body\common.cpp(425,19): warning C4996: 'GetVersion': 被声明为已否决
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(748,1): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(708): message : 查看对正在编译的函数 模板 实例化“MY_SESSION_INFO *std::vector<MY_SESSION_INFO,std::allocator<MY_SESSION_INFO>>::_Emplace_reallocate<const _Ty&>(MY_SESSION_INFO *const ,const _Ty &)”的引用
+          with
+          [
+              _Ty=MY_SESSION_INFO
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(708): message : 查看对正在编译的函数 模板 实例化“MY_SESSION_INFO *std::vector<MY_SESSION_INFO,std::allocator<MY_SESSION_INFO>>::_Emplace_reallocate<const _Ty&>(MY_SESSION_INFO *const ,const _Ty &)”的引用
+          with
+          [
+              _Ty=MY_SESSION_INFO
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(717): message : 查看对正在编译的函数 模板 实例化“void std::vector<MY_SESSION_INFO,std::allocator<MY_SESSION_INFO>>::emplace_back<const _Ty&>(const _Ty &)”的引用
+          with
+          [
+              _Ty=MY_SESSION_INFO
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(716): message : 在编译 类 模板 成员函数“void std::vector<MY_SESSION_INFO,std::allocator<MY_SESSION_INFO>>::push_back(const _Ty &)”时
+          with
+          [
+              _Ty=MY_SESSION_INFO
+          ]
+D:\feiQ\trochilus\client\servant\body\common.cpp(412): message : 查看对正在编译的函数 模板 实例化“void std::vector<MY_SESSION_INFO,std::allocator<MY_SESSION_INFO>>::push_back(const _Ty &)”的引用
+          with
+          [
+              _Ty=MY_SESSION_INFO
+          ]
+D:\feiQ\trochilus\client\servant\body\common.cpp(412): message : 查看对正在编译的 类 模板 实例化“std::vector<MY_SESSION_INFO,std::allocator<MY_SESSION_INFO>>”的引用
+  HttpComm.cpp
+D:\feiQ\trochilus\client\servant\body\HttpComm.cpp(58,12): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\client\servant\body\HttpComm.cpp(68,12): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Redirector.cpp
+D:\feiQ\trochilus\client\servant\body\Redirector.cpp(15,25): warning C4996: 'GetVersion': 被声明为已否决
+  scm.cpp
+  sctrl.cpp
+  svcctl_c.cpp
+  正在生成代码...
+D:\feiQ\trochilus\client\servant\body\HttpComm.h(13): warning C4715: “HttpComm::GetName”: 不是所有的控件路径都返回值
+  正在编译...
+  main.cpp
+D:\feiQ\trochilus\common\GuidStructs.h(74,1): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
+D:\feiQ\trochilus\client\servant\body\main.cpp(125,2): warning C4060: switch 语句没有包含“case”或“default”标签
+  Manager.cpp
+D:\feiQ\trochilus\common\GuidStructs.h(74,1): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
+D:\feiQ\trochilus\client\servant\body\Manager.cpp(341,16): warning C4244: “初始化”: 从“DWORDLONG”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\client\servant\body\Manager.cpp(367,20): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\client\servant\body\Manager.cpp(446,77): warning C4244: “参数”: 从“UINT64”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\client\servant\body\Manager.cpp(446,70): warning C4244: “参数”: 从“UINT64”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\client\servant\body\Manager.cpp(524,58): warning C4244: “参数”: 从“UINT64”转换到“int”，可能丢失数据
+D:\feiQ\trochilus\client\servant\body\Manager.cpp(526,68): warning C4244: “参数”: 从“UINT64”转换到“int”，可能丢失数据
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\ostream(376,1): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\ostream(369): message : 在编译 类 模板 成员函数“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned __int64)”时
+D:\feiQ\trochilus\client\servant\body\Manager.cpp(771): message : 查看对正在编译的函数 模板 实例化“std::basic_ostream<wchar_t,std::char_traits<wchar_t>> &std::basic_ostream<wchar_t,std::char_traits<wchar_t>>::operator <<(unsigned __int64)”的引用
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\sstream(448): message : 查看对正在编译的 类 模板 实例化“std::basic_ostream<wchar_t,std::char_traits<wchar_t>>”的引用
+D:\feiQ\trochilus\client\servant\body\Manager.cpp(94): message : 查看对正在编译的 类 模板 实例化“std::basic_ostringstream<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>”的引用
+  ServiceManager.cpp
+  TcpComm.cpp
+  UdpComm.cpp
+  正在生成代码...
+    正在创建库 ..\..\libs\body.lib 和对象 ..\..\libs\body.exp
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  body.vcxproj -> D:\feiQ\trochilus\client\servant\body\..\..\bin\body.dll

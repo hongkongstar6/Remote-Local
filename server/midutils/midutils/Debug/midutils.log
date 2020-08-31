@@ -1,0 +1,12 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  midutils.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+D:\feiQ\trochilus\server\midutils\midutils\midutils.cpp(87,3): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\feiQ\trochilus\server\midutils\midutils\midutils.cpp(136,4): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  正在生成代码...
+    正在创建库 D:\feiQ\trochilus\server\midutils\midutils\../../libsD/midutils.lib 和对象 D:\feiQ\trochilus\server\midutils\midutils\../../libsD/midutils.exp
+  midutils.vcxproj -> D:\feiQ\trochilus\server\midutils\midutils\..\..\binD\midutils.dll

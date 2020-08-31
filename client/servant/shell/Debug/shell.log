@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  SelfDestruction.cpp
+  MyFile.cpp
+  MemLoadDll.cpp
+  ods.cpp
+  peutils.cpp
+D:\feiQ\trochilus\base\include\peutils\peutils.cpp(92,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  RepeatTask.cpp
+  tstring.cpp
+  Chameleon.cpp
+  common.cpp
+D:\feiQ\trochilus\client\servant\shell\common.cpp(79,27): warning C4996: 'GetVersionExW': 被声明为已否决
+D:\feiQ\trochilus\client\servant\shell\common.cpp(82,9): warning C4996: 'GetVersionExW': 被声明为已否决
+  Exports.cpp
+  SvtShell.cpp
+  Shell.cpp
+  正在生成代码...
+    正在创建库 ..\..\libsD\Shell.lib 和对象 ..\..\libsD\Shell.exp
+  shell.vcxproj -> D:\feiQ\trochilus\client\servant\shell\..\..\binD\Shell.dll

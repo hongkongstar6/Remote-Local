@@ -1,0 +1,39 @@
+﻿  stdafx.cpp
+  json_reader.cpp
+  json_value.cpp
+  json_writer.cpp
+  Resizer.cpp
+  ods.cpp
+  RepeatTask.cpp
+  ThreadArray.cpp
+  tstring.cpp
+  CmdDlg.cpp
+D:\feiQ\trochilus\server\Trochilus\Trochilus\CmdDlg.cpp(101,70): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\server\Trochilus\Trochilus\CmdDlg.cpp(256,13): warning C4018: “<”: 有符号/无符号不匹配
+D:\feiQ\trochilus\server\Trochilus\Trochilus\CmdDlg.cpp(267,12): warning C4018: “<”: 有符号/无符号不匹配
+  ColorProgressCtrl.cpp
+D:\feiQ\trochilus\server\Trochilus\Trochilus\ColorProgressCtrl.cpp(85,73): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+  common.cpp
+  DownDlg.cpp
+  FileMgrDlg.cpp
+  HostDlg.cpp
+  HostList.cpp
+D:\feiQ\trochilus\server\Trochilus\Trochilus\HostList.cpp(198,42): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\feiQ\trochilus\server\Trochilus\Trochilus\HostList.cpp(213,32): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  IconLoader.cpp
+  ListenDlg.cpp
+  FilePanelDlg.cpp
+D:\feiQ\trochilus\server\Trochilus\Trochilus\FilePanelDlg.cpp(90,74): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  ProgressListCtrl.cpp
+  ReportCtrl.cpp
+  正在编译...
+  TransferDlg.cpp
+D:\feiQ\trochilus\server\Trochilus\Trochilus\TransferDlg.cpp(85,20): warning C4244: “初始化”: 从“UINT64”转换到“DWORD”，可能丢失数据
+D:\feiQ\trochilus\server\Trochilus\Trochilus\TransferDlg.cpp(86,21): warning C4244: “初始化”: 从“UINT64”转换到“DWORD”，可能丢失数据
+  Trochilus.cpp
+  TrochilusDlg.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 2488 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Trochilus.vcxproj -> D:\feiQ\trochilus\server\Trochilus\Trochilus\..\..\bin\Trochilus.exe

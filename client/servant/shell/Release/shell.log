@@ -1,0 +1,72 @@
+﻿  stdafx.cpp
+  SelfDestruction.cpp
+  MyFile.cpp
+  MemLoadDll.cpp
+  ods.cpp
+  peutils.cpp
+D:\feiQ\trochilus\base\include\peutils\peutils.cpp(92,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  RepeatTask.cpp
+  tstring.cpp
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(748,1): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(708): message : 查看对正在编译的函数 模板 实例化“std::basic_string<char,std::char_traits<char>,std::allocator<char>> *std::vector<std::string,std::allocator<std::string>>::_Emplace_reallocate<const _Ty&>(std::basic_string<char,std::char_traits<char>,std::allocator<char>> *const ,const _Ty &)”的引用
+          with
+          [
+              _Ty=std::string
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(708): message : 查看对正在编译的函数 模板 实例化“std::basic_string<char,std::char_traits<char>,std::allocator<char>> *std::vector<std::string,std::allocator<std::string>>::_Emplace_reallocate<const _Ty&>(std::basic_string<char,std::char_traits<char>,std::allocator<char>> *const ,const _Ty &)”的引用
+          with
+          [
+              _Ty=std::string
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(717): message : 查看对正在编译的函数 模板 实例化“void std::vector<std::string,std::allocator<std::string>>::emplace_back<const _Ty&>(const _Ty &)”的引用
+          with
+          [
+              _Ty=std::string
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(716): message : 在编译 类 模板 成员函数“void std::vector<std::string,std::allocator<std::string>>::push_back(const _Ty &)”时
+          with
+          [
+              _Ty=std::string
+          ]
+D:\feiQ\trochilus\base\include\tstring.cpp(124): message : 查看对正在编译的函数 模板 实例化“void std::vector<std::string,std::allocator<std::string>>::push_back(const _Ty &)”的引用
+          with
+          [
+              _Ty=std::string
+          ]
+D:\feiQ\trochilus\base\include\tstring.cpp(124): message : 查看对正在编译的 类 模板 实例化“std::vector<std::string,std::allocator<std::string>>”的引用
+  Chameleon.cpp
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(748,1): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(708): message : 查看对正在编译的函数 模板 实例化“std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> *std::vector<std::wstring,std::allocator<std::wstring>>::_Emplace_reallocate<_Ty>(std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> *const ,_Ty &&)”的引用
+          with
+          [
+              _Ty=std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(708): message : 查看对正在编译的函数 模板 实例化“std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> *std::vector<std::wstring,std::allocator<std::wstring>>::_Emplace_reallocate<_Ty>(std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> *const ,_Ty &&)”的引用
+          with
+          [
+              _Ty=std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(721): message : 查看对正在编译的函数 模板 实例化“void std::vector<std::wstring,std::allocator<std::wstring>>::emplace_back<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>>(std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> &&)”的引用
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(720): message : 在编译 类 模板 成员函数“void std::vector<std::wstring,std::allocator<std::wstring>>::push_back(_Ty &&)”时
+          with
+          [
+              _Ty=std::wstring
+          ]
+D:\feiQ\trochilus\client\servant\shell\Chameleon.cpp(26): message : 查看对正在编译的函数 模板 实例化“void std::vector<std::wstring,std::allocator<std::wstring>>::push_back(_Ty &&)”的引用
+          with
+          [
+              _Ty=std::wstring
+          ]
+D:\feiQ\trochilus\client\servant\shell\Chameleon.cpp(26): message : 查看对正在编译的 类 模板 实例化“std::vector<std::wstring,std::allocator<std::wstring>>”的引用
+  common.cpp
+D:\feiQ\trochilus\client\servant\shell\common.cpp(79,27): warning C4996: 'GetVersionExW': 被声明为已否决
+D:\feiQ\trochilus\client\servant\shell\common.cpp(82,9): warning C4996: 'GetVersionExW': 被声明为已否决
+  Exports.cpp
+  SvtShell.cpp
+  Shell.cpp
+    正在创建库 ..\..\libs\Shell.lib 和对象 ..\..\libs\Shell.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 341 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  shell.vcxproj -> D:\feiQ\trochilus\client\servant\shell\..\..\bin\Shell.dll

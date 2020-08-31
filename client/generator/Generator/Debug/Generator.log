@@ -1,0 +1,3 @@
+﻿  GeneratorDlg.cpp
+D:\feiQ\trochilus\client\generator\Generator\GeneratorDlg.cpp(384,14): warning C4018: “<”: 有符号/无符号不匹配
+  Generator.vcxproj -> D:\feiQ\trochilus\client\generator\Generator\../../binD/Generator.exe
