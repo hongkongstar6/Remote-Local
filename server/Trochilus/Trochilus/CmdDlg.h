@@ -16,7 +16,6 @@ public:
 	enum { IDD = IDD_DIALOG_CMD };
 	static void CALLBACK HandleModuleMsg(LPCTSTR clientid,UINT nMsg, LPVOID lpContext, LPVOID lpParameter);
 	void HandleModuleMsgProc(UINT nMsg,LPVOID lpContext,LPVOID lpParameter);
-
 	void EnableButton(BOOL isOpen);
 
 protected:
@@ -44,7 +43,6 @@ public:
 	UINT m_nCurSel;
 	CEdit m_editResult;
 	CString m_strResult;
-
 	CResizer m_resizer;
 
 	CStringArray m_arrDis;

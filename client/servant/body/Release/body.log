@@ -138,7 +138,7 @@ D:\feiQ\trochilus\client\servant\body\HttpComm.h(13): warning C4715: “HttpComm
   正在编译...
   main.cpp
 D:\feiQ\trochilus\common\GuidStructs.h(74,1): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
-D:\feiQ\trochilus\client\servant\body\main.cpp(125,2): warning C4060: switch 语句没有包含“case”或“default”标签
+D:\feiQ\trochilus\client\servant\body\main.cpp(122,2): warning C4060: switch 语句没有包含“case”或“default”标签
   Manager.cpp
 D:\feiQ\trochilus\common\GuidStructs.h(74,1): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
 D:\feiQ\trochilus\client\servant\body\Manager.cpp(341,16): warning C4244: “初始化”: 从“DWORDLONG”转换到“int”，可能丢失数据
